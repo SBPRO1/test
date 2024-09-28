@@ -1,0 +1,13 @@
+.container{
+    margin: 100px auto;
+    width: 600px;
+    height: 600px;
+    background: #011111;
+}
+.img{
+    background: url("../img/horrorhouse.jpg") no-repeat center;
+    background-size: 300px;
+    width: 300px;
+    height: 300px;
+    padding: 150px;
+}
